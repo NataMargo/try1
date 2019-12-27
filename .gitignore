@@ -1,0 +1,6 @@
+example*/
+Example*/
+
+*.db
+target/
+*.log
