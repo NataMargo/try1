@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
         int catheter = 6;
         int maxLine = catheter*2;
         int line = 1;

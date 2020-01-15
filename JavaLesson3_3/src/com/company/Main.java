@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-
         int maxLine = 7;
         int line = 1;
         while (line <= maxLine) {
