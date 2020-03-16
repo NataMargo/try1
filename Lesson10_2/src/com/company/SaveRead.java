@@ -16,7 +16,6 @@ class SaveRead {
                 flag = true;
             }
 
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
