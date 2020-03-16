@@ -1,11 +1,8 @@
-package com.company;
-
-import jdk.nashorn.internal.objects.NativeString;
+package com.company.lesson4_2;
 
 import java.util.Scanner;
 
-
-public class Main {
+public class main {
     static String convertToBinary(int number) {
         String binary = "";
         while (number != 0) {
@@ -26,3 +23,4 @@ public class Main {
 }/*Напишите программу на языке Java, которая вводит целое число,
 преобразует его в двоичное представление, сохраняя как строку, и выводит в
 консоль результат. Преобразование выполняется отдельным методом.*/
+
